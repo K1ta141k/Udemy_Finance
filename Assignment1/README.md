@@ -1,4 +1,4 @@
-- used yfinance library to collect historical data on TSLA. 
+- Collected historical data on TSLA using yfinance library.
 - Using daily stock price calculated daily return.
 - Plotted the daily price and daily returns of TSLA.
 
